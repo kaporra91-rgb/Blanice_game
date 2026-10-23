@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kolej Blanice: VŠE Dormitory Horror",
+  "description": "A 3D psychological survival horror mystery set in the eerie corridors of Kolej Blanice, Jižní Město, Prague. Solve VŠE student life puzzles and escape the haunting dorm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
